@@ -12,12 +12,13 @@ This **Recipe App** is a SwiftUI-based application that fetches recipes from a p
 - **Asynchronous Image Loading**: All network operations and image loading are handled using **Swift Concurrency** (`async/await`) for efficient, modern asynchronous execution.
 
 ### Screenshots:
-  <img src="assets/home_screen.png" width="500" />
-  *Recipe list screen showing recipe names, photos, and cuisine types.*
+<div style="display: flex; gap: 20px;">
+  <img src="assets/home_screen.png" width="250" />
+  <img src="assets/details_screen_1.png" width="250" />
+  <img src="assets/details_screen_2.png" width="250" />
+</div>
 
-  <img src="assets/details_screen_1.png" width="500" />
-  <img src="assets/details_screen_2.png" width="500" />
-  *Detailed view of a selected recipe, showing larger images and additional information.*
+*Recipe list and detailed view screens showcasing recipe names, cuisines, photos, and links.*
 
 ---
 
