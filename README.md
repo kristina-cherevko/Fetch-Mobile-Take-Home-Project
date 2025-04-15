@@ -13,9 +13,9 @@ This **Recipe App** is a SwiftUI-based application that fetches recipes from a p
 
 ### Screenshots:
 <div style="display: flex; gap: 20px;">
-  <img src="assets/home_screen.png" width="250" />
-  <img src="assets/details_screen_1.png" width="250" />
-  <img src="assets/details_screen_2.png" width="250" />
+  <img src="assets/home_screen.png" height="450" />
+  <img src="assets/details_screen_1.png" height="450" />
+  <img src="assets/details_screen_2.png" height="450" />
 </div>
 
 *Recipe list and detailed view screens showcasing recipe names, cuisines, photos, and links.*
