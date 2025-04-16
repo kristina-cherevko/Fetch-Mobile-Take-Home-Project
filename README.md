@@ -36,3 +36,10 @@ Created the UI with **SwiftUI**, emphasizing a clean, user-friendly layout.
 ### 4. Testing
 Implemented **unit tests** to verify networking functionality.
 
+---
+
+## Potential Improvements
+- **Search & Filter Functionality**: Add the ability to search for recipes by name or filter by cuisine type.
+- **Unit & UI Tests**: Expand test coverage, particularly for imagr caching and UI.
+- **Accessibility**: Enhance accessibility by supporting Dynamic Type or VoiceOver
+
